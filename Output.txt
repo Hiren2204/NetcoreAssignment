@@ -1,0 +1,6 @@
+2024-07-02 16:23:45.0846862 +0530 IST m=+10.007701743Lpoped Data:lpop tasks: redis: nil right poped data : rpop tasks: redis: nil
+ map[ID:11 Name:Abc]
+2024-07-02 16:23:55.085076706 +0530 IST m=+20.008092190Lpoped Data:lpop tasks: redis: nil right poped data : rpop tasks: redis: nil
+ map[ID:11 Name:Abc]
+2024-07-02 16:24:05.084916281 +0530 IST m=+30.007931763Lpoped Data:lpop tasks: redis: nil right poped data : rpop tasks: redis: nil
+ map[ID:11 Name:Abc]
